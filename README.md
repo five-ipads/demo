@@ -22,7 +22,7 @@ MAC:
 
 Open the TERMINAL app (Applications > utilities > Terminal)
 
-type "cd /Users/YOUR USERNAME/Downloads" with NO QUOTES, where [YOUR USERNAME] is your user name (that you log in with) and hit enter
+type "cd /Users/YOUR USERNAME/Desktop/" with NO QUOTES, where [YOUR USERNAME] is your user name (that you log in with) and hit enter
 
 type "python3 button.py" and hit enter
 
