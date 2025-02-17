@@ -11,7 +11,7 @@ You should be able to just double click the file and it will open. IF NOT (which
 
 Search the Start menu for Command Prompt.
 
-type "cd \[YOUR USERNAME]\Desktop" with NO QUOTES, where [YOUR USERNAME] is your user name that you log in with and hit enter *THIS MIGHT NOT BE CORRECT*
+type "cd  \[YOUR USERNAME]\Desktop" with NO QUOTES, where [YOUR USERNAME] is your user name that you log in with and hit enter *THIS MIGHT NOT BE CORRECT*
 
 type "python button.py" and hit enter.
 
